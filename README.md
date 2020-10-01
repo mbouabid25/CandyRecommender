@@ -1,2 +1,2 @@
 # CandyRecommender
-Recommends candies to the user depending their tastes
+Recommends candies to the user depending their preferences
